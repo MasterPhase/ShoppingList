@@ -1,0 +1,64 @@
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Shopping List.dll.config
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Shopping List.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Shopping List.pdb
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csc.exe
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csc.exe.config
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csc.rsp
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csi.exe
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csi.exe.config
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\csi.rsp
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.AppContext.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Console.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.IO.Compression.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Claims.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.ValueTuple.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\vbc.exe
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\vbc.exe.config
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\vbc.rsp
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\VBCSCompiler.exe
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Newtonsoft.Json.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Net.Http.Formatting.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Web.Http.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Web.Http.WebHost.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Newtonsoft.Json.xml
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Net.Http.Formatting.xml
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Web.Http.xml
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\System.Web.Http.WebHost.xml
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\obj\Debug\Shopping List.csprojAssemblyReference.cache
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\obj\Debug\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\obj\Debug\Shopping List.csproj.CopyComplete
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\obj\Debug\Shopping List.dll
+C:\Users\Christopher\source\repos\Shopping List\Shopping List\obj\Debug\Shopping List.pdb
